@@ -8,13 +8,13 @@
 Summary:	CatalystX::ListFramework::Builder - Instant AJAX web front-end for DBIx::Class, using Catalyst
 #Summary(pl.UTF-8):	
 Name:		perl-CatalystX-ListFramework-Builder
-Version:	0.38
-Release:	2
+Version:	0.39
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/CatalystX/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	ce4be405703c52dadca7964e8aa380d8
+# Source0-md5:	a65e0e8320fe8cf62eeb48eb5f49a09e
 URL:		http://search.cpan.org/dist/CatalystX-ListFramework-Builder/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
