@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	CatalystX
 %define	pnam	ListFramework-Builder
 Summary:	CatalystX::ListFramework::Builder - Instant AJAX web front-end for DBIx::Class, using Catalyst
